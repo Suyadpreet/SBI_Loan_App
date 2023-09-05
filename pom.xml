@@ -71,6 +71,6 @@
         </plugin>
       </plugins>
     </pluginManagement>
-    <finalName>Gill-Appp</finalName>
+    <finalName>Gill-App</finalName>
   </build>
 </project>
